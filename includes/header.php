@@ -23,7 +23,7 @@
 		<li><a href="http://localhost/historico/views/usuarios/index.php">Listagem</a></li>
 		<li><a href="http://localhost/historico/views/usuarios/cadastrar-usuario.php">Cadastrar</a></li>
 	</ul>
-	<nav>
+	<nav class="deep-orange">
 		<div class="container">
 			<div class="nav-wrapper">
 				<a href="http://localhost/historico/views/" class="brand-logo">Histórico Alper</a>

@@ -1,0 +1,27 @@
+table p{
+	margin: 0;
+}
+body{
+	background-color: #efefef;
+}
+.content .container{
+	background-color: #fff;
+	padding: 25px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+nav{
+	box-shadow: none;
+}
+h1{
+    margin: 0;
+}
+.informacoes-adicionais, .historico-alteracoes{
+    background-color: #efefef;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+table.striped>tbody>tr:nth-child(odd) {
+    background-color: #efefef;
+}
