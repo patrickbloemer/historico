@@ -16,7 +16,7 @@ function envia($nome, $informacao_adicional){
 // Usuário do servidor SMTP (endereço de email) 
 // obs: Use a mesma senha da sua conta de email 
   $mail->Username = 'website@servermail.srv.br'; 
-  $mail->Password = '#'; 
+  $mail->Password = 'Agencia321#Alper'; 
 // Configurações de compatibilidade para autenticação em TLS 
   $mail->SMTPOptions = array( 'ssl' => array( 'verify_peer' => false, 'verify_peer_name' => false, 'allow_self_signed' => true ) ); 
 // Você pode habilitar esta opção caso tenha problemas. Assim pode identificar mensagens de erro. 
